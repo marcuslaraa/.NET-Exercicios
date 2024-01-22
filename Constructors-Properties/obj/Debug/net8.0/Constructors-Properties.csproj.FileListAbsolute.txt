@@ -1,0 +1,15 @@
+C:\Users\win\Desktop\Nova pasta\Marcus\DOTNET\Exercicios\Constructors-Properties\bin\Debug\net8.0\Constructors-Properties.exe
+C:\Users\win\Desktop\Nova pasta\Marcus\DOTNET\Exercicios\Constructors-Properties\bin\Debug\net8.0\Constructors-Properties.deps.json
+C:\Users\win\Desktop\Nova pasta\Marcus\DOTNET\Exercicios\Constructors-Properties\bin\Debug\net8.0\Constructors-Properties.runtimeconfig.json
+C:\Users\win\Desktop\Nova pasta\Marcus\DOTNET\Exercicios\Constructors-Properties\bin\Debug\net8.0\Constructors-Properties.dll
+C:\Users\win\Desktop\Nova pasta\Marcus\DOTNET\Exercicios\Constructors-Properties\bin\Debug\net8.0\Constructors-Properties.pdb
+C:\Users\win\Desktop\Nova pasta\Marcus\DOTNET\Exercicios\Constructors-Properties\obj\Debug\net8.0\Constructors-Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\Desktop\Nova pasta\Marcus\DOTNET\Exercicios\Constructors-Properties\obj\Debug\net8.0\Constructors-Properties.AssemblyInfoInputs.cache
+C:\Users\win\Desktop\Nova pasta\Marcus\DOTNET\Exercicios\Constructors-Properties\obj\Debug\net8.0\Constructors-Properties.AssemblyInfo.cs
+C:\Users\win\Desktop\Nova pasta\Marcus\DOTNET\Exercicios\Constructors-Properties\obj\Debug\net8.0\Constructors-Properties.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\Nova pasta\Marcus\DOTNET\Exercicios\Constructors-Properties\obj\Debug\net8.0\Constructors-Properties.sourcelink.json
+C:\Users\win\Desktop\Nova pasta\Marcus\DOTNET\Exercicios\Constructors-Properties\obj\Debug\net8.0\Constructors-Properties.dll
+C:\Users\win\Desktop\Nova pasta\Marcus\DOTNET\Exercicios\Constructors-Properties\obj\Debug\net8.0\refint\Constructors-Properties.dll
+C:\Users\win\Desktop\Nova pasta\Marcus\DOTNET\Exercicios\Constructors-Properties\obj\Debug\net8.0\Constructors-Properties.pdb
+C:\Users\win\Desktop\Nova pasta\Marcus\DOTNET\Exercicios\Constructors-Properties\obj\Debug\net8.0\Constructors-Properties.genruntimeconfig.cache
+C:\Users\win\Desktop\Nova pasta\Marcus\DOTNET\Exercicios\Constructors-Properties\obj\Debug\net8.0\ref\Constructors-Properties.dll

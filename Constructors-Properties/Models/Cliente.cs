@@ -12,16 +12,21 @@ namespace Constructors_Properties.Models
         public string Nome { get; set; }
         public double Saldo { get; set; }
 
-        public Cliente(int numeroConta, string nome)
+        public Cliente()
         {
-            Saldo = 0;
-        }
 
+        }
         public Cliente(int numeroConta, string nome, double saldo)
         {
            NumeroConta = numeroConta;
            Nome = nome;
            Saldo = saldo;
+        }
+        public Cliente(int numeroConta, string nome)
+        {   
+            NumeroConta = numeroConta;
+            Nome = nome;
+            Saldo = 0;
         }
 
         public void Depositar(double deposito) 

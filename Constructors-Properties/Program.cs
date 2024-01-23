@@ -32,3 +32,17 @@ else
 
 Console.WriteLine("Dados da conta:");
 Console.WriteLine(c1);
+
+Console.WriteLine("Entre um valor para depósito: ");
+double deposito = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+c1.Depositar(deposito);
+
+Console.WriteLine("Dados da conta:");
+Console.WriteLine(c1);
+
+Console.WriteLine("Entre um valor para saque: ");
+double saque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+c1.Sacar(saque);
+
+Console.WriteLine("Dados da conta:");
+Console.WriteLine(c1);

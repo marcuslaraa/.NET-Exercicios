@@ -32,7 +32,11 @@ namespace Constructors_Properties.Models
         public void Depositar(double deposito) 
         {
             Saldo += deposito;
-            Console.WriteLine("p");
+        }
+
+        public void Sacar(double saque) 
+        {
+            Saldo -= saque;
         }
 
 

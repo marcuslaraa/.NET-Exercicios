@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\win\\.nuget\\packages\\": {}
+    "C:\\Users\\marcu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\win\\Desktop\\Nova pasta\\Marcus\\DOTNET\\Exercicios\\Constructors-Properties\\Constructors-Properties.csproj",
+      "projectUniqueName": "C:\\Users\\marcu\\OneDrive\\Área de Trabalho\\Estudos\\UDEMY\\.NET\\Contrutores, this, sobrecargas e encapsulamento\\ExerciciosConstrutores\\.NET-Exercicios\\Constructors-Properties\\Constructors-Properties.csproj",
       "projectName": "Constructors-Properties",
-      "projectPath": "C:\\Users\\win\\Desktop\\Nova pasta\\Marcus\\DOTNET\\Exercicios\\Constructors-Properties\\Constructors-Properties.csproj",
-      "packagesPath": "C:\\Users\\win\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\win\\Desktop\\Nova pasta\\Marcus\\DOTNET\\Exercicios\\Constructors-Properties\\obj\\",
+      "projectPath": "C:\\Users\\marcu\\OneDrive\\Área de Trabalho\\Estudos\\UDEMY\\.NET\\Contrutores, this, sobrecargas e encapsulamento\\ExerciciosConstrutores\\.NET-Exercicios\\Constructors-Properties\\Constructors-Properties.csproj",
+      "packagesPath": "C:\\Users\\marcu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marcu\\OneDrive\\Área de Trabalho\\Estudos\\UDEMY\\.NET\\Contrutores, this, sobrecargas e encapsulamento\\ExerciciosConstrutores\\.NET-Exercicios\\Constructors-Properties\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\win\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\marcu\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
